@@ -2,6 +2,16 @@
 
 **[中文版](README_zh.md)** | English
 
+---
+
+OpenClaw has been making waves lately. Like most developers, my first reaction was "I get it" — until I actually sat down and built with it.
+
+What caught me was the *system design thinking* behind it: treating an agent's runtime structure as an engineering problem, not a collection of prompt tricks. That, combined with my own experience building with CLI agents, pushed me to rethink how I configure my own agent from scratch.
+
+This repo is the result. I'm sharing my `AGENTS.md` design to start — not as a best practice, but as a genuine working config that's been running for months. **I'm opening this up as a co-creation project.** Submit yours. Vote on others. Let's build the reference library for CLI agent architecture that doesn't exist yet.
+
+---
+
 > A community collection of complete AI Agent Runtime Blueprints.
 > **Not just prompts — full operational systems.**
 
