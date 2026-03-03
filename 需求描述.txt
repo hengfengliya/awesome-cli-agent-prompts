@@ -1,0 +1,87 @@
+项目需求描述
+项目目标
+
+创建一个 GitHub 开源项目，用于分享和沉淀个人 Agent 架构与运行结构。
+
+不是单条 Prompt。
+而是完整的 Agent Runtime Blueprint。
+
+核心定位
+
+一个允许开发者提交自己完整 Agent 结构的仓库，包括：
+
+System Prompt
+
+人格与身份设定
+
+记忆结构
+
+文件治理规则
+
+变更记录机制
+
+工具配置说明
+
+工作流与运行约束
+
+目标是：
+
+让每个人都能构建并分享“最适合自己的 Agent”。
+
+提交内容范围
+
+每个 Agent 作为一个独立目录，允许包含：
+
+IDENTITY.md
+
+SOUL.md
+
+USER.md
+
+MEMORY.md
+
+TOOLS.md
+
+CHANGE.md / change.md
+
+HEARTBEAT.md
+
+PRODUCT.md / PLAN.md / TASK.md
+
+其他运行结构文件
+
+必须包含：
+
+README.md（理念与设计说明）
+
+作者署名
+
+License
+
+设计原则
+
+Agent 是系统，不是 Prompt
+
+结构优先于语言
+
+行为边界必须清晰
+
+所有变更可追溯
+
+鼓励长期维护
+
+不做的事情
+
+不收集泄露的商业 System Prompt
+
+不做泛资源列表
+
+不做单条 Prompt 示例合集
+
+项目愿景
+
+建立一个：
+
+开源 Agent 架构共享社区。
+
+让 Agent 从“提示词技巧”升级为“可持续运行的系统设计”。
