@@ -1,17 +1,6 @@
 # 宣传帖文档
 
-> LinuxDo / V2EX 发布版本，含完整素材。
-> 发布前替换 `[截图]` 占位为实际图片。
-
----
-
-## 建议截图清单
-
-1. **Gallery 展示页** — https://hengfengliya.github.io/awesome-cli-agent-prompts/
-   截图要点：卡片布局、文件 badge、投票按钮
-2. **submissions/xiaoyuan/ 目录** — https://github.com/hengfengliya/awesome-cli-agent-prompts/tree/main/submissions/xiaoyuan
-   截图要点：文件列表，展示"这是系统，不是一个文件"
-3. **SOUL.md 内容** — 截"你不是聊天机器人。你在成为一个人"这段
+> LinuxDo / V2EX 发布版本。
 
 ---
 
@@ -39,7 +28,7 @@
 
 最近 OpenClaw 很火，我也跟风去折腾了。说实话，程序员大多眼高手低，我也一样——看到一个新工具，第一反应是"这有什么，不就是……"然后打开用了两下，发现自己根本没搞明白。
 
-OpenClaw 真正让我觉得有意思的，不是它的功能，是它**对 system 层的设计思路**——它把 Agent 的运行结构当作一个工程问题来处理，而不是一堆 prompt 技巧的堆砌。
+搞明白之后呢？说实话，能力上比不上 Claude Code、Gemini CLI 这些工具，差距还不小。但它有一点真的打动了我——**对 system 层的设计思路**。它把 Agent 的运行结构当作一个工程问题来处理，而不是一堆 prompt 技巧的堆砌。这个思路本身，比它的功能更值得借鉴。
 
 结合我之前用 CLI Agent 的一些积累，我把自己的 Agent 配置整理了一遍，重新设计了一套 `AGENTS.md`，也就是下面要分享的东西。
 
