@@ -69,7 +69,9 @@ Full details → [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
-## First Submission: xiaoyuan / yuan
+## Featured Submissions
+
+### xiaoyuan / yuan
 
 The seed submission has evolved into a fuller workspace operating model:
 
@@ -79,6 +81,16 @@ The seed submission has evolved into a fuller workspace operating model:
 - Traceable records across memory, execution logs, and stage-level change summaries
 
 [View files →](submissions/xiaoyuan/)
+
+### cli_best
+
+A compact governance-first blueprint built around a GPT-scored `AGENTS.md` prompt:
+
+- minimal default loading with explicit on-demand context expansion
+- append-only memory discipline for logs, with selective rewrite rules for knowledge files
+- project-relative `tools.md` / `memory.md` conventions for lightweight execution
+
+[View files →](submissions/cli_best/)
 
 ---
 

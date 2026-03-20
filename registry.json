@@ -31,6 +31,37 @@
       },
       "submitted_at": "2026-03-03",
       "license": "MIT"
+    },
+    {
+      "id": "cli_best",
+      "author": {
+        "handle": "cli_best",
+        "display_name": "cli_best",
+        "github": "hengfengliya"
+      },
+      "path": "submissions/cli_best",
+      "description": "极简且可追溯的 Agent Blueprint，强调按需加载、只读扩展与项目就近记忆协作",
+      "tags": ["minimal", "traceable", "chinese", "workspace-governance", "memory-discipline"],
+      "files": {
+        "IDENTITY": false,
+        "SOUL": false,
+        "USER": false,
+        "MEMORY": false,
+        "TOOLS": true,
+        "AGENTS": true,
+        "HEARTBEAT": false,
+        "BOOTSTRAP": false,
+        "PRODUCT": false,
+        "PLAN": false,
+        "TASK": false,
+        "CHANGE": false
+      },
+      "voting": {
+        "github_issue_number": null,
+        "issue_url": null
+      },
+      "submitted_at": "2026-03-20",
+      "license": "MIT"
     }
   ]
 }

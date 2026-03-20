@@ -71,7 +71,9 @@ OpenClaw 让我觉得真正有意思的，不是它的功能列表，是它**对
 
 ---
 
-## 第一个提交：xiaoyuan / yuan
+## 推荐提交
+
+### xiaoyuan / yuan
 
 这是当前的种子提交版本，已经从单纯的提示词集合升级成更完整的工作区运行结构：
 
@@ -81,6 +83,16 @@ OpenClaw 让我觉得真正有意思的，不是它的功能列表，是它**对
 - **可追溯记录体系**：`memory`、`MEMORY.md`、`change.md`、`CHANGE.md` 分层留痕
 
 [查看文件 →](submissions/xiaoyuan/)
+
+### cli_best
+
+这是一个更克制的治理型 Blueprint，核心是那份 GPT 评分 `99.5` 的 `AGENTS.md`：
+
+- **默认少加载**：只加载必要文件，其他上下文按需展开
+- **写入可追溯**：所有写入先读后写，日志类记忆坚持仅追加
+- **项目就近协作**：`tools.md` / `memory.md` 绑定当前工作目录，而不是强制绑定根目录
+
+[查看文件 →](submissions/cli_best/)
 
 ---
 
